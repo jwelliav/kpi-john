@@ -1,0 +1,5 @@
+Metadata-Version: 2.1
+Name: kpi
+Version: 0.1.0
+Summary: Package for computing KPIs
+Provides-Extra: docs
